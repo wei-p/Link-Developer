@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://wpan:pw960618@cluster0-is2bd.mongodb.net/Cluster0?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://wpan:pw960618@cluster0-is2bd.mongodb.net/Cluster0?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
